@@ -1,0 +1,2 @@
+# resumen
+CALIDAD-DE-SOFTWARE
